@@ -1,0 +1,10 @@
+typedef union
+{
+  struct
+  {
+      uint32_t value;
+      uint32_t offset;
+      uint32_t width;
+   }_reg;
+   uint32_32 reg;
+ }reg;
