@@ -1,3 +1,4 @@
+#include<stdio.h>
 void main()
 {
   printf("nagesh is a good boy\n");
