@@ -8,3 +8,6 @@ typedef union
    }_reg;
    uint32_32 reg;
  }reg;
+void main()
+{
+}
